@@ -7,3 +7,36 @@ disassembly:
 - index: 1
   title: "assembled"
   description: "before starting"
+- index: 2
+  title: "remove the base scresws"
+  description: "remove the four screws in the base, bottom comes off easily"
+- index: 3
+  title: "remove the side screws"
+  description: "remove the four screws side screws holding the top plastic piece in place. these are at an angle and are a bit difficult to see, then are a bit difficult to reach"
+- index: 4
+  title: "remove the top plastic piece"
+  description: "remove the top plastic piece. there are a few rather aggresive plastic snaps on top, it feels like there are more screws but there aren't"
+- index: 5
+  title: "remove the cover on the fold down piece"
+  description: "remove the cover on the fold down piece, it is held in place with a number of relatively aggresive plastic snaps, but no screws"
+- index: 6
+  title: "fold down piece bottom"
+  description: "remove the fold down piece bottom, remove the six screws and it comes off easily"
+- index: 7
+  title: "remove the front cowling"
+  description: "remove the 4 ish screws and the front cowling"
+- index: 8
+  title: "remove the pcb"
+  description: "remove the pcb, remove the four screws then unplug the cables."
+- index: 9
+  title: "remove the back cover"
+  description: "remove the back cover, remove the five (mine only had three) screws and pop the back piece off"
+- index: 10
+  title: "this is where i stopped"
+  description: "this is where i stopped"
+
+
+
+
+
+
