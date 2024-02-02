@@ -40,6 +40,10 @@ this is where i stopped
 
 
 
+## pcb  
+[![](images/pcb_1_front_600.jpg)](images/pcb_1_front.jpg)  
+[![](images/pcb_1_back_600.jpg)](images/pcb_1_back.jpg)  
+
 
 ## corel working
 ![](working_600.png) 
